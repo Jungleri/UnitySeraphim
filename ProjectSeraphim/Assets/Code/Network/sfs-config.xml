@@ -1,0 +1,7 @@
+<SmartFoxConfig>
+  <host>127.0.0.1</host>
+  <port>9933</port>
+  <udphost>127.0.0.1</udphost>
+  <udpPort>9933</udpPort>
+  <zone>TestBed</zone>
+</SmartFoxConfig>
